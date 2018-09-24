@@ -26,3 +26,7 @@ body {
 p {
   text-align:justify
 }
+
+.social_icons a {
+  color: inherit;
+}
